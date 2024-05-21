@@ -25,8 +25,9 @@ A static web technical documentation on the overview of lifecycle processes used
 - None required
 
 ## Usage
-- https://airborne-software-lifecycle-processes.netlify.app/
-- ![image](https://github.com/oluwaseunolusanya/airborne-software-lifecycle/assets/26019734/655eba87-a0c4-49fc-85c0-5344d2e67228)
+ https://airborne-software-lifecycle-processes.netlify.app/
+
+![image](https://github.com/oluwaseunolusanya/airborne-software-lifecycle/assets/26019734/655eba87-a0c4-49fc-85c0-5344d2e67228)
 
 
 
